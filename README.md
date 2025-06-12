@@ -18,7 +18,7 @@ A simple Calculator web application built using HTML, CSS, and JavaScript. This 
 # Run the Game
 >> Clone the repo or download the ZIP file.
 >> OPen the folder in VS Code or similar tools.
->> Right click "index.html" -> Open with Live server or open in any browser.
+>> Right click `index.html` -> Open with Live server or open in any browser.
 >> Input numbers in the respective fields and click on the requires operation and calculate.
 ![Screenshot 2025-06-11 155029](https://github.com/user-attachments/assets/66c68963-b5bf-4db3-a6f4-3f2c397cbe00)
 ![Screenshot 2025-06-11 154910](https://github.com/user-attachments/assets/d3af0fb1-9237-4dd1-9055-ee46c8d46446)
